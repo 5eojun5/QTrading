@@ -2,7 +2,13 @@
 
 A production-quality, full-stack quantitative options trading dashboard with AI-powered signal analysis. Built for local development and designed to impress.
 
-![QTrading Dashboard](docs/preview.png)
+> **Live demo:** Run locally at `http://localhost:3000` — see [Quick Start](#quick-start-local-development) below.
+
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)](https://nextjs.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi)](https://fastapi.tiangolo.com)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript)](https://www.typescriptlang.org)
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python)](https://python.org)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-38BDF8?logo=tailwindcss)](https://tailwindcss.com)
 
 ## Features
 
